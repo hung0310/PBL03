@@ -10,6 +10,7 @@ using System.Windows.Forms;
 
 namespace PBL03
 {
+    // Hello World
     public partial class Form_Admin : Form
     {
         public Form_Admin()
