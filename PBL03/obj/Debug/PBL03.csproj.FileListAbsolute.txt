@@ -1,0 +1,244 @@
+D:\Luyen Code\PBL03\PBL03\bin\Debug\PBL03.exe.config
+D:\Luyen Code\PBL03\PBL03\bin\Debug\PBL03.exe
+D:\Luyen Code\PBL03\PBL03\bin\Debug\PBL03.pdb
+D:\Luyen Code\PBL03\PBL03\bin\Debug\Guna.UI2.dll
+D:\Luyen Code\PBL03\PBL03\obj\Debug\PBL03.csproj.AssemblyReference.cache
+D:\Luyen Code\PBL03\PBL03\obj\Debug\PBL03.csproj.SuggestedBindingRedirects.cache
+D:\Luyen Code\PBL03\PBL03\obj\Debug\PBL03.FormLogin.resources
+D:\Luyen Code\PBL03\PBL03\obj\Debug\PBL03.Properties.Resources.resources
+D:\Luyen Code\PBL03\PBL03\obj\Debug\PBL03.csproj.GenerateResource.cache
+D:\Luyen Code\PBL03\PBL03\obj\Debug\PBL03.csproj.CoreCompileInputs.cache
+D:\Luyen Code\PBL03\PBL03\obj\Debug\PBL03.csproj.CopyComplete
+D:\Luyen Code\PBL03\PBL03\obj\Debug\PBL03.exe
+D:\Luyen Code\PBL03\PBL03\obj\Debug\PBL03.pdb
+D:\Luyen Code\PBL03\PBL03\obj\Debug\PBL03.FormMain.resources
+D:\Luyen Code\PBL03\PBL03\obj\Debug\PBL03.Form_StatusTable.resources
+D:\Luyen Code\PBL03\PBL03\obj\Debug\PBL03.Form_MEmployee.resources
+D:\Luyen Code\PBL03\PBL03\obj\Debug\PBL03.Form_Menu.resources
+D:\Luyen Code\PBL03\PBL03\obj\Debug\PBL03.UserControl_Food.resources
+D:\Luyen Code\PBL03\PBL03\obj\Debug\PBL03.UserControl_Menu.resources
+D:\Luyen Code\PBL03\PBL03\obj\Debug\PBL03.Form_Order.resources
+D:\Luyen Code\PBL03\PBL03\obj\Debug\PBL03.UserControl_Order.resources
+D:\Luyen Code\PBL03\PBL03\obj\Debug\PBL03.Form_Admin.resources
+D:\Luyen Code\PBL03\PBL03\obj\Debug\PBL03.Form_QuanLyThuNgan.resources
+D:\Luyen Code\PBL03\PBL03\obj\Debug\PBL03.Form_Update.resources
+D:\Luyen Code\PBL03\PBL03\obj\Debug\PBL03.Form_Profit.resources
+D:\Luyen Code\PBL03\PBL03\obj\Debug\PBL03.Form_Revenue.resources
+D:\software_demo\PBL03\PBL03-master\PBL03-master\PBL03\bin\Debug\PBL03.exe.config
+D:\software_demo\PBL03\PBL03-master\PBL03-master\PBL03\bin\Debug\PBL03.exe
+D:\software_demo\PBL03\PBL03-master\PBL03-master\PBL03\bin\Debug\PBL03.pdb
+D:\software_demo\PBL03\PBL03-master\PBL03-master\PBL03\bin\Debug\Guna.UI2.dll
+D:\software_demo\PBL03\PBL03-master\PBL03-master\PBL03\obj\Debug\PBL03.csproj.AssemblyReference.cache
+D:\software_demo\PBL03\PBL03-master\PBL03-master\PBL03\obj\Debug\PBL03.csproj.SuggestedBindingRedirects.cache
+D:\software_demo\PBL03\PBL03-master\PBL03-master\PBL03\obj\Debug\PBL03.FormLogin.resources
+D:\software_demo\PBL03\PBL03-master\PBL03-master\PBL03\obj\Debug\PBL03.FormMain.resources
+D:\software_demo\PBL03\PBL03-master\PBL03-master\PBL03\obj\Debug\PBL03.Form_Profit.resources
+D:\software_demo\PBL03\PBL03-master\PBL03-master\PBL03\obj\Debug\PBL03.Form_Admin.resources
+D:\software_demo\PBL03\PBL03-master\PBL03-master\PBL03\obj\Debug\PBL03.Form_MEmployee.resources
+D:\software_demo\PBL03\PBL03-master\PBL03-master\PBL03\obj\Debug\PBL03.Form_Menu.resources
+D:\software_demo\PBL03\PBL03-master\PBL03-master\PBL03\obj\Debug\PBL03.Form_Order.resources
+D:\software_demo\PBL03\PBL03-master\PBL03-master\PBL03\obj\Debug\PBL03.Form_QuanLyThuNgan.resources
+D:\software_demo\PBL03\PBL03-master\PBL03-master\PBL03\obj\Debug\PBL03.Form_Revenue.resources
+D:\software_demo\PBL03\PBL03-master\PBL03-master\PBL03\obj\Debug\PBL03.Form_StatusTable.resources
+D:\software_demo\PBL03\PBL03-master\PBL03-master\PBL03\obj\Debug\PBL03.Form_Update.resources
+D:\software_demo\PBL03\PBL03-master\PBL03-master\PBL03\obj\Debug\PBL03.Properties.Resources.resources
+D:\software_demo\PBL03\PBL03-master\PBL03-master\PBL03\obj\Debug\PBL03.UserControl_Food.resources
+D:\software_demo\PBL03\PBL03-master\PBL03-master\PBL03\obj\Debug\PBL03.UserControl_Menu.resources
+D:\software_demo\PBL03\PBL03-master\PBL03-master\PBL03\obj\Debug\PBL03.UserControl_Order.resources
+D:\software_demo\PBL03\PBL03-master\PBL03-master\PBL03\obj\Debug\PBL03.csproj.GenerateResource.cache
+D:\software_demo\PBL03\PBL03-master\PBL03-master\PBL03\obj\Debug\PBL03.csproj.CoreCompileInputs.cache
+D:\software_demo\PBL03\PBL03-master\PBL03-master\PBL03\obj\Debug\PBL03.csproj.CopyComplete
+D:\software_demo\PBL03\PBL03-master\PBL03-master\PBL03\obj\Debug\PBL03.exe
+D:\software_demo\PBL03\PBL03-master\PBL03-master\PBL03\obj\Debug\PBL03.pdb
+D:\software_demo\PBL03\PBL03-master\PBL03-master\PBL03\bin\Debug\EntityFramework.dll
+D:\software_demo\PBL03\PBL03-master\PBL03-master\PBL03\bin\Debug\EntityFramework.SqlServer.dll
+D:\software_demo\PBL03\PBL03-master\PBL03-master\PBL03\bin\Debug\EntityFramework.xml
+D:\software_demo\PBL03\PBL03-master\PBL03-master\PBL03\bin\Debug\EntityFramework.SqlServer.xml
+D:\PBL\PBL3\PBL03-master\PBL03\bin\Debug\PBL03.exe.config
+D:\PBL\PBL3\PBL03-master\PBL03\bin\Debug\PBL03.exe
+D:\PBL\PBL3\PBL03-master\PBL03\bin\Debug\PBL03.pdb
+D:\PBL\PBL3\PBL03-master\PBL03\bin\Debug\EntityFramework.dll
+D:\PBL\PBL3\PBL03-master\PBL03\bin\Debug\EntityFramework.SqlServer.dll
+D:\PBL\PBL3\PBL03-master\PBL03\bin\Debug\Guna.UI2.dll
+D:\PBL\PBL3\PBL03-master\PBL03\bin\Debug\EntityFramework.xml
+D:\PBL\PBL3\PBL03-master\PBL03\bin\Debug\EntityFramework.SqlServer.xml
+D:\PBL\PBL3\PBL03-master\PBL03\obj\Debug\PBL03.csproj.AssemblyReference.cache
+D:\PBL\PBL3\PBL03-master\PBL03\obj\Debug\PBL03.csproj.SuggestedBindingRedirects.cache
+D:\PBL\PBL3\PBL03-master\PBL03\obj\Debug\PBL03.FormLogin.resources
+D:\PBL\PBL3\PBL03-master\PBL03\obj\Debug\PBL03.FormMain.resources
+D:\PBL\PBL3\PBL03-master\PBL03\obj\Debug\PBL03.Form_Profit.resources
+D:\PBL\PBL3\PBL03-master\PBL03\obj\Debug\PBL03.Form_Admin.resources
+D:\PBL\PBL3\PBL03-master\PBL03\obj\Debug\PBL03.Form_MEmployee.resources
+D:\PBL\PBL3\PBL03-master\PBL03\obj\Debug\PBL03.Form_Menu.resources
+D:\PBL\PBL3\PBL03-master\PBL03\obj\Debug\PBL03.Form_Order.resources
+D:\PBL\PBL3\PBL03-master\PBL03\obj\Debug\PBL03.Form_QuanLyThuNgan.resources
+D:\PBL\PBL3\PBL03-master\PBL03\obj\Debug\PBL03.Form_Revenue.resources
+D:\PBL\PBL3\PBL03-master\PBL03\obj\Debug\PBL03.Form_StatusTable.resources
+D:\PBL\PBL3\PBL03-master\PBL03\obj\Debug\PBL03.Form_Update.resources
+D:\PBL\PBL3\PBL03-master\PBL03\obj\Debug\PBL03.Properties.Resources.resources
+D:\PBL\PBL3\PBL03-master\PBL03\obj\Debug\PBL03.UserControl_Food.resources
+D:\PBL\PBL3\PBL03-master\PBL03\obj\Debug\PBL03.UserControl_Menu.resources
+D:\PBL\PBL3\PBL03-master\PBL03\obj\Debug\PBL03.UserControl_Order.resources
+D:\PBL\PBL3\PBL03-master\PBL03\obj\Debug\PBL03.csproj.GenerateResource.cache
+D:\PBL\PBL3\PBL03-master\PBL03\obj\Debug\PBL03.csproj.CoreCompileInputs.cache
+D:\PBL\PBL3\PBL03-master\PBL03\obj\Debug\PBL03.csproj.CopyComplete
+D:\PBL\PBL3\PBL03-master\PBL03\obj\Debug\PBL03.exe
+D:\PBL\PBL3\PBL03-master\PBL03\obj\Debug\PBL03.pdb
+D:\PBL\PBL3\PBL03-master\PBL03\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\PBL\PBL3\PBL03-master\PBL03\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\PBL\PBL3\PBL03-master\PBL03\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\PBL\PBL3\PBL03-master\PBL03\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\PBL\PBL3\PBL03-master\PBL03\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\PBL\PBL3\PBL03-master\PBL03\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\PBL\PBL3\PBL03-master\PBL03\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\PBL\PBL3\PBL03-master\PBL03\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\PBL\PBL3\PBL03-master\PBL03\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\PBL\PBL3\PBL03-master\PBL03\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\PBL\PBL3\PBL03-master\PBL03\bin\Debug\EnvDTE.dll
+D:\PBL\PBL3\PBL03-master\PBL03\bin\Debug\stdole.dll
+D:\PBL\PBL3\PBL03-master\PBL03\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\PBL\PBL3\PBL03-master\PBL03\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\PBL\PBL3\PBL03-master\PBL03\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\PBL\PBL3\PBL03-master\PBL03\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\PBL\PBL3\PBL03-master\PBL03\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\PBL\PBL3\PBL03-master\PBL03\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\PBL\PBL3\PBL03-master\PBL03\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\PBL\PBL3\PBL03-master\PBL03\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\PBL\PBL3\PBL03-master\PBL03\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\PBL\PBL3\PBL03-master\PBL03\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\PBL\PBL3\PBL03-master\PBL03\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PBL\PBL3\PBL03-master\PBL03\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PBL\PBL3\PBL03-master\PBL03\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PBL\PBL3\PBL03-master\PBL03\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PBL\PBL3\PBL03-master\PBL03\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PBL\PBL3\PBL03-master\PBL03\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PBL\PBL3\PBL03-master\PBL03\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PBL\PBL3\PBL03-master\PBL03\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PBL\PBL3\PBL03-master\PBL03\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PBL\PBL3\PBL03-master\PBL03\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PBL\PBL3\PBL03-master\PBL03\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\PBL\PBL3\PBL03-master\PBL03\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\PBL\PBL3\PBL03-master\PBL03\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\PBL\PBL3\PBL03-master\PBL03\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\PBL\PBL3\PBL03-master\PBL03\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\PBL\PBL3\PBL03-master\PBL03\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\PBL\PBL3\PBL03-master\PBL03\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\PBL\PBL3\PBL03-master\PBL03\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\PBL\PBL3\PBL03-master\PBL03\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\PBL\PBL3\PBL03-master\PBL03\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\PBL\PBL3\PBL03-master\PBL03\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PBL\PBL3\PBL03-master\PBL03\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PBL\PBL3\PBL03-master\PBL03\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PBL\PBL3\PBL03-master\PBL03\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PBL\PBL3\PBL03-master\PBL03\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PBL\PBL3\PBL03-master\PBL03\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PBL\PBL3\PBL03-master\PBL03\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PBL\PBL3\PBL03-master\PBL03\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PBL\PBL3\PBL03-master\PBL03\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PBL\PBL3\PBL03-master\PBL03\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PBL\PBL3\PBL03-master\PBL03\bin\Debug\BCrypt.Net.dll
+D:\PBL\PBL3\PBL03-master\PBL03\bin\Debug\BCrypt.Net.xml
+D:\PBL\PBL3\PBL03-master\PBL03\obj\Debug\PBL03.FormForgot.resources
+D:\PBL\PBL3\PBL03-master\PBL03\obj\Debug\PBL03.FormForgot2.resources
+D:\PBL\PBL3\PBL03-master\PBL03\obj\Debug\PBL03.FormChangePass.resources
+D:\PBL\PBL3\PBL03-master\PBL03\obj\Debug\PBL03.Form_ViewSchedule.resources
+D:\PBL\PBL3\PBL03-master\PBL03\obj\Debug\PBL03.Form_ManageSchedule.resources
+D:\PBL\PBL3\PBL03-master\PBL03\obj\Debug\PBL03.Form_EditSchedule.resources
+D:\PBL\PBL3\PBL03-master\PBL03\obj\Debug\PBL03.Form_ManageFood.resources
+D:\PBL\PBL3\PBL03-master\PBL03\obj\Debug\PBL03.Form_ImportFood.resources
+D:\PBL\PBL3\PBL03-master\PBL03\obj\Debug\PBL03.Form_EditFood.resources
+D:\Luyen Code\PBL03-master\PBL03\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Luyen Code\PBL03-master\PBL03\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Luyen Code\PBL03-master\PBL03\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Luyen Code\PBL03-master\PBL03\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Luyen Code\PBL03-master\PBL03\bin\Debug\PBL03.exe.config
+D:\Luyen Code\PBL03-master\PBL03\bin\Debug\PBL03.exe
+D:\Luyen Code\PBL03-master\PBL03\bin\Debug\PBL03.pdb
+D:\Luyen Code\PBL03-master\PBL03\bin\Debug\BCrypt.Net.dll
+D:\Luyen Code\PBL03-master\PBL03\bin\Debug\EntityFramework.dll
+D:\Luyen Code\PBL03-master\PBL03\bin\Debug\EntityFramework.SqlServer.dll
+D:\Luyen Code\PBL03-master\PBL03\bin\Debug\Guna.UI2.dll
+D:\Luyen Code\PBL03-master\PBL03\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Luyen Code\PBL03-master\PBL03\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Luyen Code\PBL03-master\PBL03\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Luyen Code\PBL03-master\PBL03\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Luyen Code\PBL03-master\PBL03\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Luyen Code\PBL03-master\PBL03\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Luyen Code\PBL03-master\PBL03\bin\Debug\EnvDTE.dll
+D:\Luyen Code\PBL03-master\PBL03\bin\Debug\stdole.dll
+D:\Luyen Code\PBL03-master\PBL03\bin\Debug\BCrypt.Net.xml
+D:\Luyen Code\PBL03-master\PBL03\bin\Debug\EntityFramework.xml
+D:\Luyen Code\PBL03-master\PBL03\bin\Debug\EntityFramework.SqlServer.xml
+D:\Luyen Code\PBL03-master\PBL03\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Luyen Code\PBL03-master\PBL03\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Luyen Code\PBL03-master\PBL03\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Luyen Code\PBL03-master\PBL03\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Luyen Code\PBL03-master\PBL03\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Luyen Code\PBL03-master\PBL03\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Luyen Code\PBL03-master\PBL03\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Luyen Code\PBL03-master\PBL03\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Luyen Code\PBL03-master\PBL03\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Luyen Code\PBL03-master\PBL03\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Luyen Code\PBL03-master\PBL03\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Luyen Code\PBL03-master\PBL03\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Luyen Code\PBL03-master\PBL03\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Luyen Code\PBL03-master\PBL03\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Luyen Code\PBL03-master\PBL03\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Luyen Code\PBL03-master\PBL03\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Luyen Code\PBL03-master\PBL03\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Luyen Code\PBL03-master\PBL03\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Luyen Code\PBL03-master\PBL03\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Luyen Code\PBL03-master\PBL03\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Luyen Code\PBL03-master\PBL03\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Luyen Code\PBL03-master\PBL03\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Luyen Code\PBL03-master\PBL03\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Luyen Code\PBL03-master\PBL03\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Luyen Code\PBL03-master\PBL03\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Luyen Code\PBL03-master\PBL03\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Luyen Code\PBL03-master\PBL03\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Luyen Code\PBL03-master\PBL03\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Luyen Code\PBL03-master\PBL03\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Luyen Code\PBL03-master\PBL03\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Luyen Code\PBL03-master\PBL03\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Luyen Code\PBL03-master\PBL03\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Luyen Code\PBL03-master\PBL03\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Luyen Code\PBL03-master\PBL03\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Luyen Code\PBL03-master\PBL03\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Luyen Code\PBL03-master\PBL03\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Luyen Code\PBL03-master\PBL03\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Luyen Code\PBL03-master\PBL03\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Luyen Code\PBL03-master\PBL03\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Luyen Code\PBL03-master\PBL03\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Luyen Code\PBL03-master\PBL03\obj\Debug\PBL03.csproj.AssemblyReference.cache
+D:\Luyen Code\PBL03-master\PBL03\obj\Debug\PBL03.csproj.SuggestedBindingRedirects.cache
+D:\Luyen Code\PBL03-master\PBL03\obj\Debug\PBL03.FormChangePass.resources
+D:\Luyen Code\PBL03-master\PBL03\obj\Debug\PBL03.FormForgot.resources
+D:\Luyen Code\PBL03-master\PBL03\obj\Debug\PBL03.FormForgot2.resources
+D:\Luyen Code\PBL03-master\PBL03\obj\Debug\PBL03.FormLogin.resources
+D:\Luyen Code\PBL03-master\PBL03\obj\Debug\PBL03.FormMain.resources
+D:\Luyen Code\PBL03-master\PBL03\obj\Debug\PBL03.Form_EditFood.resources
+D:\Luyen Code\PBL03-master\PBL03\obj\Debug\PBL03.Form_EditSchedule.resources
+D:\Luyen Code\PBL03-master\PBL03\obj\Debug\PBL03.Form_ImportFood.resources
+D:\Luyen Code\PBL03-master\PBL03\obj\Debug\PBL03.Form_ManageFood.resources
+D:\Luyen Code\PBL03-master\PBL03\obj\Debug\PBL03.Form_ManageSchedule.resources
+D:\Luyen Code\PBL03-master\PBL03\obj\Debug\PBL03.Form_Profit.resources
+D:\Luyen Code\PBL03-master\PBL03\obj\Debug\PBL03.Form_Admin.resources
+D:\Luyen Code\PBL03-master\PBL03\obj\Debug\PBL03.Form_MEmployee.resources
+D:\Luyen Code\PBL03-master\PBL03\obj\Debug\PBL03.Form_Menu.resources
+D:\Luyen Code\PBL03-master\PBL03\obj\Debug\PBL03.Form_Order.resources
+D:\Luyen Code\PBL03-master\PBL03\obj\Debug\PBL03.Form_QuanLyThuNgan.resources
+D:\Luyen Code\PBL03-master\PBL03\obj\Debug\PBL03.Form_Revenue.resources
+D:\Luyen Code\PBL03-master\PBL03\obj\Debug\PBL03.Form_StatusTable.resources
+D:\Luyen Code\PBL03-master\PBL03\obj\Debug\PBL03.Form_Update.resources
+D:\Luyen Code\PBL03-master\PBL03\obj\Debug\PBL03.Form_ViewSchedule.resources
+D:\Luyen Code\PBL03-master\PBL03\obj\Debug\PBL03.Properties.Resources.resources
+D:\Luyen Code\PBL03-master\PBL03\obj\Debug\PBL03.UserControl_Food.resources
+D:\Luyen Code\PBL03-master\PBL03\obj\Debug\PBL03.UserControl_Menu.resources
+D:\Luyen Code\PBL03-master\PBL03\obj\Debug\PBL03.UserControl_Order.resources
+D:\Luyen Code\PBL03-master\PBL03\obj\Debug\PBL03.csproj.GenerateResource.cache
+D:\Luyen Code\PBL03-master\PBL03\obj\Debug\PBL03.csproj.CoreCompileInputs.cache
+D:\Luyen Code\PBL03-master\PBL03\obj\Debug\PBL03.csproj.CopyComplete
+D:\Luyen Code\PBL03-master\PBL03\obj\Debug\PBL03.exe
+D:\Luyen Code\PBL03-master\PBL03\obj\Debug\PBL03.pdb
+D:\Luyen Code\PBL03-master\PBL03\obj\Debug\PBL03.FormChamCong.resources
+D:\Luyen Code\PBL03-master\PBL03\obj\Debug\PBL03.UserControl_ChamCong.resources
